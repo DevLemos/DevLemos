@@ -1,11 +1,11 @@
-### Olá! Eu sou o Kauan Lemos
+<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá, meu nome é Kauan Lemos</h1>
+  
+- 🔥  Desenvolvedor Front-end
 
-°💻 Desenvolvedor Front-end
+- ☕ Amante da tecnologia, jogos e café
 
-°📝 Cursando C.C
-
-°🚀 20 anos
-
+- 🚀 Em processo de transição de carreira, sempre buscando conhecimento para o meu avanço no mercado e para minha tão sonhada vaga de Dev front-end.
+ 
 <div align="center">
   <a href="https://github.com/DevLemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,6 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kauan-JavaScript" height="30" width="40" src="https://vetores.org/d/javascript.svg">
 </div>
   
  ##
