@@ -1,14 +1,14 @@
 ## Olá, Eu sou o Kauan Lemos
   
-- 🖥 Desenvolvedor Front-end
+- 🖥 Desenvolvedor Full Stack
 - 📒 Estudante de Ciências da Computação
 - ☕ Amante da tecnologia, jogos e café
  
-<div align="center">
-  <a href="https://github.com/DevLemos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLemos&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="48%" height="205px" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Kauan Lemos Github Stats" /> 
+  <img width="40%" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLemos&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
 </div>
+    
   <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
