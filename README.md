@@ -5,8 +5,8 @@
 - ☕ Amante da tecnologia, jogos e café
  
 <div align="center">  
-  <img height="205px" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Kauan Lemos Github Stats" /> 
-  <img height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLemos&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Kauan Lemos Github Stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLemos&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
 </div>
     
   <div style="display: inline_block"><br>
