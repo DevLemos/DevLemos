@@ -15,7 +15,7 @@
   <a href="https://skillicons.dev">
     <img 
       src="https://skillicons.dev/icons?i=cs,dotnet,javascript,react,python,mysql&perline=19" 
-      width="370" 
+      width="330" 
       height="auto" />
   </a>
 </div>
