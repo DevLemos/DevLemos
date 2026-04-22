@@ -8,21 +8,30 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLemos&show_icons=true&count_private=true&hide_border=true&title_color=4b95fd&icon_color=4b95fd&text_color=eeeeee&bg_color=0d1117&rank_icon=github" alt="Kauan Lemos Github Stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLemos&layout=compact&hide_border=true&title_color=4b95fd&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+## Tecnologias
     
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauan-JavaScript" height="30" width="40" src="https://vetores.org/d/javascript.svg">
-  <img align="center" alt="Kauan-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kauan-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Kauan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Kauan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Kauan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Kauan-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Kauan-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">      
+<div style="display: inline_block">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,javascript,react,cs,dotnet,python,mysql&perline=19" 
+      width="370" 
+      height="auto" />
+  </a>
 </div>
   
- ##
+ ## Ferramentas
+
+ <div style="display: inline_block">
+   <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=vscode,figma,postman&perline=19" 
+      width="150" 
+      height="auto" />
+    </a>
+ </div>
+
+<br>
  
 <div> 
   <a href="https://www.instagram.com/_kauanlemos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
